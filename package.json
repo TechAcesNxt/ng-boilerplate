@@ -11,7 +11,8 @@
     "dev:ssr": "ng run ng-boilerplate:serve-ssr",
     "serve:ssr": "node dist/ng-boilerplate/server/main.js",
     "build:ssr": "ng build --prod && ng run ng-boilerplate:server:production",
-    "prerender": "ng run ng-boilerplate:prerender"
+    "prerender": "ng run ng-boilerplate:prerender",
+    "compodoc": "npx compodoc -p tsconfig.app.json --theme 'material'"
   },
   "private": true,
   "dependencies": {
