@@ -9,3 +9,6 @@
 * OAuth - [https://www.npmjs.com/package/angularx-social-login](https://www.npmjs.com/package/angularx-social-login)
 * [https://levelup.gitconnected.com/sign-in-with-google-oauth-in-angular-8-e716ed7f3b2f](https://levelup.gitconnected.com/sign-in-with-google-oauth-in-angular-8-e716ed7f3b2f)
 * [https://auth0.com/blog/angular-2-authentication/](https://auth0.com/blog/angular-2-authentication/)
+
+<br>
+## We need to run ng add @nativescript/schematics for every new project
