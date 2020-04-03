@@ -38,6 +38,12 @@
       "isOrdered": true,
       "folders": {},
       "files": {}
+    },
+    "storybook-static": {
+      "name": "storybook-static",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
     }
   },
   "files": {
